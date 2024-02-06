@@ -1,2 +1,2 @@
 # extreme-complex-Java-Demo-task
-I figured AI changed the programming meta so much, I can't provide anything of Value that I can share with anyone but only this generated Code. For showcase that I have a very good understanding of AI and OOP I let the GPT do its work and put this here instead so the least you can assume that I understand this design pattern and the meaning of patterns.
+Due to the fact I mostly used these languages for Studying which is some time ago and the changes of the developing meta got deeply affected by Co-Pilot and AI I didnt wanna showcase any old material because it wouldn't prove anything. I let the GPT do its work and put this here instead as a quick reminder of how important the understanding of patterns is.
